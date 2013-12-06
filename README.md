@@ -1,4 +1,7 @@
-HTML_JS
+HTML and JavaScript
 =======
 
-JavaScript and HTML Sorce code and Tutorial Stuffs all by the master himself rian
+Javascript Help:
+Javascript is a programing language used for websites that want to look cool and have other cool stuff like alerts etc
+HTML:
+HTML or Hyper Text Markup language is a scripting language not like javascript and it has a few cool things you can do!
